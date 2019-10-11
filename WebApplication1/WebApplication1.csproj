@@ -185,6 +185,7 @@
     <Compile Include="Models\Especialidades.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\EspercialidadeMetadado.cs" />
     <Compile Include="Models\MedicoMetadado.cs" />
     <Compile Include="Models\Medicos.cs">
       <DependentUpon>Model1.tt</DependentUpon>

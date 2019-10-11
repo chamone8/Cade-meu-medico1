@@ -26,7 +26,7 @@ namespace WebApplication1.Models
         public int IDCidade { get; set; }
         public int IDEspecialidade { get; set; }
     
-        public virtual Cidades Cidades { get; set; }
+        public virtual Cidade Cidades { get; set; }
         public virtual Especialidades Especialidades { get; set; }
     }
 }
